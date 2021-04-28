@@ -18,7 +18,7 @@ Fonte: [MundoJS](https://www.mundojs.com.br/2020/03/24/conheca-o-puppeteer-uma-b
 ## Destaques🔍
 Aqui estão os principais destaques do código:
 
-![image](https://user-images.githubusercontent.com/71889113/116451386-c876eb80-a832-11eb-8edf-e4bb120d047b.png)
+![image](https://user-images.githubusercontent.com/71889113/116469682-d0da2100-a848-11eb-98f7-0f34c1cf5ed9.png)
 1. As linhas 14 a 16 direcionam o usuário diretamente para a página do WhatsApp Web;
 2. As linhas 19 e 20 especificam o contato e direcionam para a conversa;
 3. As linhas 24 e 25 mantém a ação na barra de texto;
