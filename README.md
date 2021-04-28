@@ -28,3 +28,6 @@ Aqui estão os principais destaques do código:
 ## Possíveis soluções para erros❌
 1. Verifique se o comando para adicionar o Puppeteer foi instalado dentro do diretório do projeto;
 2. Nas linhas 15, 21 e 24 são utilizadas as classes da barra de contato e da caixa de texto da conversa respectivamente. Essas classes podem mudar e ocasionar em erros, o que aconteceu comigo inclusive, por isso recomendo que tente inspecionar a página do WhatsApp Web e tente substituí-las.
+
+## Créditos🌟
+[Github do Pedro, responsável pelo vídeo](https://github.com/machadop1407)
